@@ -1,0 +1,9 @@
+[
+{
+  "modid": "crosshairhide",
+  "name": "CrosshairHide",
+  "description": "Disables the crosshair when in third person.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9"
+}
+]
